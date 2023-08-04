@@ -1,5 +1,5 @@
 #!/bin/bash
-directory="/alx-low_level_programming/0x17-doubly_linked_lists"  # Replace with your target directory
+directory="/binary_trees"  # Replace with your target directory
 
 for file in "$directory"/*; do
     if [ -f "$file" ]; then
